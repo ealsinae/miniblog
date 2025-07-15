@@ -1,7 +1,7 @@
 ---
 title: "Customizing Miniblog"
 description: "How to customize the Miniblog blog theme."
-date: "Nov 26 2024"
+date: "Nov 1 2024"
 ---
 
 ## Blog Posts
